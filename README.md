@@ -6,3 +6,6 @@ river's chinook salmon. It contains data from https://www.fisheries.noaa.gov/inp
 tribuatary of origin. 
 
 The repository is complimented by ARCgis maps as well as photos and text to guide the reader. 
+
+Currently working on an unsupervised learning portion of the analysis. 
+
