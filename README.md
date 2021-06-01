@@ -7,5 +7,5 @@ tribuatary of origin.
 
 The repository is complimented by ARCgis maps as well as photos and text to guide the reader. 
 
-Currently working on an unsupervised learning portion of the analysis. 
+The main file is the one that is Chinook_Yukon and not Chinook_Yukon(1). I am keeping 1 as some resumes redirect to (1) 
 
